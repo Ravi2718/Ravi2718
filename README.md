@@ -1,12 +1,26 @@
 <h1 align="center">Hi There 👋 it's me Ravi</h1>
-<h3 align="center">A cybersecurity and ethical hacking enthusiast. Fully immersed in the world of cybersecurity, I’m focusing on protecting digital landscapes and uncovering vulnerabilities to build more secure systems. I’m driven by a commitment to ethical practices and continuous learning in the ever-evolving field of cybersecurity.</h3>
+
+🔐 **Cybersecurity & Python Developer** 
+
+🧠 *"I don’t just find bugs — I fix them too."*
+
+Enthusiastic learner who thrives on exploring new technologies and uncovering system weaknesses.  With a strong foundation in **cybersecurity and ethical hacking**, paired with solid skills in **Python development**, I bring a unique combo to the table.
+
+My passion lies in continuous learning, experimenting with real-world security tools, and writing clean, bug-free software informed by a hacker’s mindset.
+
+
+> **Always curious. Always building. Always hunting.**
+
 <img align = "right" alt = "coding" width = "200" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw2rELRoCVjSV7jEgnlvAmz4rdOaNRZq7sDpEPJlCsooKAmW_YphQYbx66V0l0YwzsP98&usqp=CAU">
 
 Here’s a peek into who I am :
 
-- 🌱 I’m currently learning: cybersecurity and ethical hacking 
-- 📫 How to reach me: https://nexgen-5cc26.web.app/ 
-- ⚡ Fun fact: The term 'bug' in computing was inspired by a real bug 😂  found by Grace Hopper in 1947
+🌱 I’m currently learning: cybersecurity and ethical hacking 
+
+🌐 How to reach me: [Portfolio](https://nexgen-5cc26.web.app/)
+
+⚡ Fun fact: The term 'bug' in computing was inspired by a real bug 😂  found by Grace Hopper in 1947
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

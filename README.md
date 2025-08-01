@@ -20,93 +20,74 @@ Here’s a peek into who I am :
 🌐 How to reach me: [Portfolio](https://nexgen-5cc26.web.app/)
 
 ⚡ Fun fact: The term 'bug' in computing was inspired by a real bug 😂  found by Grace Hopper in 1947
- 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://app.hackthebox.com/profile/1426392" target="_blank"> <img src="./assets/HTB.png" height="50" width="60"/></a>
- <a href="https://www.linkedin.com/in/raviprasadm/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raviprasadm/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@nothingtohide-4786" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@nothingtohide-4786" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Ravi187/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ravi187/" height="30" width="40" /></a>
-  <a href="https://tryhackme.com/p/RAVI187" target="_blank"> <img src="./assets/THMlogo.png" height="50" width="70"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi2718&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-Here is the updated section for **your GitHub profile** using the style and SVG icons consistent with your friend's profile:
+ 
 
 ---
 
-### 🧠 **Skills Overview**
+## 🤝 Connect with Me
 
-<h3 align="left">Programming Languages:</h3>  
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <a href="https://app.hackthebox.com/profile/1426392" target="_blank">
+    <img src="./assets/HTB.png" height="50" alt="HackTheBox"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="40" height="40"/>
+  <a href="https://tryhackme.com/p/RAVI187" target="_blank">
+    <img src="./assets/THMlogo.png" height="50" alt="TryHackMe"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raviprasadm/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@nothingtohide-4786" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" alt="YouTube"/>
+  </a>
+  <a href="https://leetcode.com/u/Ravi187/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" alt="LeetCode"/>
   </a>
 </p>
 
-<h3 align="left">Web Technologies:</h3>  
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/palletsprojects/palletsprojects-icon.svg" alt="Flask" width="40" height="40"/>
-  </a>
+---
+
+## 💻 Tech Stack
+
+### 🐍 Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" title="SQL"/>
 </p>
 
-<h3 align="left">Libraries & Tools:</h3>  
-<p align="left">
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://google.github.io/mediapipe/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/50986043?s=200&v=4" alt="MediaPipe" width="40" height="40"/>
-  </a>
-  <a href="http://dlib.net/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/23690302?s=200&v=4" alt="Dlib" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  </a>
+### 🌐 Web Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/>
 </p>
 
-<h3 align="left">AI/ML Frameworks:</h3>  
-<p align="left">
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
+### 🧠 AI/ML Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" title="Scikit-learn"/>
 </p>
 
-<h3 align="left">Cloud Platforms:</h3>  
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
-  </a>
+### 📦 Libraries & Tools
+<p>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" title="OpenCV"/>
+   <img src="https://viz.mediapipe.dev/logo.png" width="40" title="Media"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/d9/Dlib_c%2B%2B_library_logo.png" width="40" title="Dlib"/>
 </p>
 
-<h3 align="left">OS / CLI / Boards:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
+### ☁️ Cloud Platforms
+<p>
+  <img src="https://www.xantara-it.nl/wp-content/uploads/2022/07/2560px-AmazonWebservices_Logo.svg_.png" width="80" title="AWS"/>
 </p>
 
+### 🐧 OS & Embedded Systems
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" title="Arduino"/>
+</p>

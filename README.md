@@ -96,7 +96,7 @@ Here’s a peek into who I am :
 <p>
   <img src="/img/nmap.png" width="40" title="Nmap"/>
    <img src="/img/Wireshark.png" width="40" title="Wireshark"/>
-  <img src="/img/Burp.png" width="40" title="Burp Suite"/>
+  <img src="/assets/Burp.png" width="40" title="Burp Suite"/>
   <img src="/img/meta.png" width="40" title="Metasploit"/>
   <img src="/img/john.png" width="40" title="John the Ripper"/>
 </p>

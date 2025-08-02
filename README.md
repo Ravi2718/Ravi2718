@@ -28,8 +28,7 @@ Here’s a peek into who I am :
 
 ---
 
-## 🤝 Connect with Me
-
+<h2 align="center">🤝 Connect with Me</h2>
 <p align="left">
   <a href="https://app.hackthebox.com/profile/1426392" target="_blank">
     <img src="./assets/HTB.png" height="50" alt="HackTheBox"/>
@@ -48,9 +47,7 @@ Here’s a peek into who I am :
   </a>
 </p>
 
----
-
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
 ### 🐍 Programming Languages
 <p>
@@ -91,3 +88,42 @@ Here’s a peek into who I am :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" title="Arduino"/>
 </p>
+
+
+<h2 align="center">🔐 Cybersecurity & Networking</h2>
+
+### 🛠️ Security Tools
+<p>
+  <img src="/img/nmap.png" width="40" title="Nmap"/>
+   <img src="/img/Wireshark.png" width="40" title="Wireshark"/>
+  <img src="/img/Burp.png" width="40" title="Burp Suite"/>
+  <img src="/img/meta.png" width="40" title="Metasploit"/>
+  <img src="/img/john.png" width="40" title="John the Ripper"/>
+</p>
+
+### 💻 Operating Systems
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" title="Kali Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" title="Windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" title="Ubuntu"/>
+</p>
+
+### 🌐 Networking Concepts
+<p>
+  <img src="/img/VPN.png" width="40" title="VPN"/>
+  <img src="/img/DNS.png" width="40" title="DNS"/>
+  <img src="/img/Firewall.png" width="40" title="Firewall"/>
+  
+</p>
+
+### 💡 Scripting Language
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+</p>
+
+### 🎯 Platforms
+<p>
+  <img src="./assets/THMlogo.png" width="50" title="TryHackMe"/>
+  <img src="./assets/HTB.png" width="50" title="Hack The Box"/>
+</p>
+
